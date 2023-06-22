@@ -1,0 +1,39 @@
+object	0 show	1 x	2 y	3 min	4 max	5 pic	6 name	7 dim	8 mMode	9 DigCnt	10 Order 			
+1 pic					 	3	Example of stabilizing the output voltage while changing the supply voltage					 		
+2 5v					 				 					
+3 +E1	1	56	267					 		3	0			
+4 +E2					 				 					
+5 -E1					 				 					
+6 +I1					 				 					
+7 +I2					 				 					
+8 fgen					 				 					
+9 														
+10 	 													
+11 mt	1	921	355	-10.00	10.00	UD	V1	V	DC	3	16			
+12 mt	1	301	356	-10.00	10.00	UD	V2	V	DC	3	13			
+13 mt	1	571	219	-10.00	10.00	UD	A1	mA	DC	3	14			
+14 mt	1	782	355	-10.00	10.00	UD	A2	mA	DC	3	15			
+15 mt					 				 					
+16 mt					 				 					
+17 mt					 				 					
+18 mt					 				 					
+19 el	1	750	216	0.00		F	Rload	Ohm		3	18			
+20 el	1	483	29	100.00		R	R	Ohm		3	17			
+21 el					 				 					
+22 el					 				 					
+23 el					 				 					
+24 el					 				 					
+25 el					 				 					
+26 el					 				 					
+27 el					 				 					
+28 el					 				 					
+29 el					 				 					
+30 el					 				 					
+31 el					 				 					
+32 el					 				 					
+33 el					 				 					
+34 el					 				 					
+35 el					 				 					
+36 el					 				 					
+37 el					 				 					
+					 				 					

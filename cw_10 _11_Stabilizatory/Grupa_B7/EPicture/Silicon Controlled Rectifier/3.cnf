@@ -1,0 +1,39 @@
+object	0 show	1 x	2 y	3 min	4 max	5 pic	6 name	7 dim	8 mMode	9 DigCnt	10 Order 	
+1 pic					 	3	Circuit diagram for monitoring the dynamic processes of the diode voltage and current					 
+2 5v					 				 			
+3 +E1					 				 			
+4 +E2					 				 			
+5 -E1					 				 			
+6 +I1					 				 			
+7 +I2					 				 			
+8 fgen	1	7	433					 		"0;3;0;0;0"	"0;0;0;0;0"	
+9												
+10	 											
+11 mt					 				 			
+12 mt					 				 			
+13 mt					 				 			
+14 mt					 				 			
+15 mt					 				 			
+16 mt					 				 			
+17 mt					 				 			
+18 mt					 				 			
+19 el	1	305	48	200.00		R	R1	Ohm		0	11	
+20 el	1	1009	151	0.00		F	t-set	us		4	13	
+21 el	1	1008	98	0.00		F	t-esc	us		4	12	
+22 el	1	1010	200	0.00		F	t-rec	us		4	14	
+23 el					 				 			
+24 el					 				 			
+25 el					 				 			
+26 el					 				 			
+27 el					 				 			
+28 el					 				 			
+29 el					 				 			
+30 el					 				 			
+31 el					 				 			
+32 el					 				 			
+33 el					 				 			
+34 el					 				 			
+35 el					 				 			
+36 el					 				 			
+37 el					 				 			
+					 				 			
