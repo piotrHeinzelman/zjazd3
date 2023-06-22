@@ -1,0 +1,39 @@
+object	0 show	1 x	2 y	3 min	4 max	5 pic	6 name	7 dim	8 mMode	9 DigCnt	10 Order 			
+1 pic					 		Circuit diagram for plotting the I-V and AFC characteristics of the amplifier					 		
+2 5v	1	855	67					 		0	5			
+3 +E1					 				 					
+4 +E2					 				 					
+5 -E1					 				 					
+6 +I1					 				 					
+7 +I2					 				 					
+8 fgen	1	12	477					 		0;3;0;0;0	0;2;0;0;0			
+9 														
+10 	 													
+11 mt	1	120	369	-10.00	10.00	UD	V1	V	AC	3	10			
+12 mt	1	913	318	-10.00	10.00	UD	V2	V	AC	3	11			
+13 mt					 				 					
+14 mt					 				 					
+15 mt					 				 					
+16 mt					 				 					
+17 mt					 				 					
+18 mt					 				 					
+19 el	1	872	414	0.00		R	Rload	kOhm		5	14			
+20 el					 				 					
+21 el					 				 					
+22 el					 				 					
+23 el					 				 					
+24 el					 				 					
+25 el					 				 					
+26 el					 				 					
+27 el					 				 					
+28 el					 				 					
+29 el					 				 					
+30 el					 				 					
+31 el					 				 					
+32 el					 				 					
+33 el					 				 					
+34 el					 				 					
+35 el					 				 					
+36 el					 				 					
+37 el					 				 					
+					 				 					

@@ -1,0 +1,39 @@
+object	0 show	1 x	2 y	3 min	4 max	5 pic	6 name	7 dim	8 mMode	9 DigCnt	10 Order 			
+1 pic					 	2	Circuit diagram for plotting the input characteristic of the triac					 		
+2 5v					 				 					
+3 +E1	1	792	370					 		2	11			
+4 +E2					 				 					
+5 -E1					 				 					
+6 +I1	1	15	371					 		2	10			
+7 +I2					 				 					
+8 fgen					 				 					
+9 														
+10 	 													
+11 mt	1	321	382	-10.00	10.00	UD	V1	V	DC	3	14			
+12 mt	1	619	384	-10.00	10.00	UD	V2	V	DC	3	15			
+13 mt	1	156	235	-1.00	1.00	LR	A1	mA	DC	3	13			
+14 mt					 				 					
+15 mt					 				 					
+16 mt					 				 					
+17 mt					 				 					
+18 mt					 				 					
+19 el					 				 					
+20 el	1	848	182	0.00		R	R1	Ohm		0	16			
+21 el					 				 					
+22 el					 				 					
+23 el					 				 					
+24 el					 				 					
+25 el					 				 					
+26 el					 				 					
+27 el					 				 					
+28 el					 				 					
+29 el					 				 					
+30 el					 				 					
+31 el					 				 					
+32 el					 				 					
+33 el					 				 					
+34 el					 				 					
+35 el					 				 					
+36 el					 				 					
+37 el					 				 					
+					 				 					
